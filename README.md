@@ -15,7 +15,7 @@ Checkout this repo, install dependencies, then start the process with the follow
 ```
 
 ####Not Familiar with Git?#####
-Click [here](https://github.com/ghoch/react-redux-book-search/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 	> npm install
